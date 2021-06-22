@@ -1,0 +1,6 @@
+name: Goat_Spawner
+version: 1.0.0
+api-version: 1.13
+author: Keanu Nichols
+main: me.keanunichols.goatspawner.GoatSpawner
+description: Keanu's 1.17 Goat Attack

@@ -1,5 +1,5 @@
 # Minecraft_Goat__Hunter
-Minecrraft but Goats are hunting us down
+Minecraft but Goats are hunting us down
 
 # Minecraft_Wormhole
 I coded it so that screaming Goats randomly spawn on us, and if you stop moving for a few seconds Goats maybe ram into you.
